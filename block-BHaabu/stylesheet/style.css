@@ -49,7 +49,7 @@ table {
 /****************/
 body{
 	margin-top: 10px;
-	background-image: url("./assests/media/main-img.jpg");
+	background-image: url("../assests/media/main-img.jpg");
 	background-size: cover;
 }
 h1{
@@ -89,7 +89,7 @@ h1{
 	font-weight: bold;
 	font-size: 16px;
 	border-radius: 10px;
-	background-image: url("./assests/media/disneyland-image.jpg");
+	background-image: url("../assests/media/disneyland-image.jpg");
 	background-size: cover;
 	display: flex;
 	justify-content: center;
